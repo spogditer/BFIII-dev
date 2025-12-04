@@ -1,0 +1,20 @@
+[gd_scene load_steps=5 format=3 uid="uid://cb7misae4wid0"]
+
+[ext_resource type="PackedScene" uid="uid://b015mxq8egjm1" path="res://floor_1_ithinktile.tscn" id="1_a202f"]
+[ext_resource type="PackedScene" uid="uid://befo36h28unki" path="res://Player.tscn" id="2_noarx"]
+[ext_resource type="Script" uid="uid://bnca5hvu2ql64" path="res://Scripts/player.gd" id="3_a0tk4"]
+[ext_resource type="PackedScene" uid="uid://dkj4wyr0rbop2" path="res://Rep_blasterrifle.tscn" id="4_r3fl7"]
+
+[node name="Node3D" type="Node3D"]
+
+[node name="floor1ithinktile" parent="." instance=ExtResource("1_a202f")]
+
+[node name="RigidBody3D" parent="." instance=ExtResource("2_noarx")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.74325, 0)
+script = ExtResource("3_a0tk4")
+
+[node name="Node3D" parent="RigidBody3D" instance=ExtResource("4_r3fl7")]
+transform = Transform3D(0.96029425, 0.21021038, -0.18343018, -0.27558658, 0.6123546, -0.7409953, -0.043440588, 0.76212424, 0.64597166, -5.1456733, 9.842379, 1.9865639)
+
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 31.608173, -93.73955)

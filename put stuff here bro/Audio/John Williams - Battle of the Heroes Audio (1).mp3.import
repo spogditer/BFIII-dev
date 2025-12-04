@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://buw8qtcc8t0xu"
+path="res://.godot/imported/John Williams - Battle of the Heroes Audio (1).mp3-854242733d49d9947b152f9db0322e34.mp3str"
+
+[deps]
+
+source_file="res://put stuff here bro/Audio/John Williams - Battle of the Heroes Audio (1).mp3"
+dest_files=["res://.godot/imported/John Williams - Battle of the Heroes Audio (1).mp3-854242733d49d9947b152f9db0322e34.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

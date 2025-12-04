@@ -1,0 +1,56 @@
+# Blender 5.0.0 MTL File: 'None'
+# www.blender.org
+
+newmtl Mat
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Mat_10DB4F82_6AC34C06_616F890A
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_venator_briefing_room/10DB4F82_diffuse.dds
+map_d C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_venator_briefing_room/10DB4F82_diffuse.dds
+map_Bump -bm 1.000000 C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_venator_briefing_room/6AC34C06_normal.dds
+
+newmtl Mat_1EDD3102_7E710506_75BD8E8A
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_venator_briefing_room/1EDD3102_diffuse.dds
+map_d C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_venator_briefing_room/1EDD3102_diffuse.dds
+map_Bump -bm 1.000000 C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_venator_briefing_room/7E710506_normal.dds
+
+newmtl Mat_40D42A82_4BE60606_4488068A
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_venator_briefing_room/40D42A82_diffuse.dds
+map_d C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_venator_briefing_room/40D42A82_diffuse.dds
+map_Bump -bm 1.000000 C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_venator_briefing_room/4BE60606_normal.dds
+
+newmtl Mat_457CBC02_00F92D06_42FFA10A
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_venator_briefing_room/457CBC02_diffuse.dds
+map_d C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_venator_briefing_room/457CBC02_diffuse.dds
+map_Bump -bm 1.000000 C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_venator_briefing_room/00F92D06_normal.dds

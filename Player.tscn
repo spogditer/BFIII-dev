@@ -1,0 +1,57 @@
+[gd_scene load_steps=10 format=3 uid="uid://caqlw3oc4acwl"]
+
+[ext_resource type="ArrayMesh" uid="uid://c40yg8xja3hpe" path="res://put stuff here bro/Models/rep_clonetrooper.obj" id="1_kpjcp"]
+[ext_resource type="Texture2D" uid="uid://bpfa4oqqd1v0i" path="res://put stuff here bro/Textures/7F40ED02_diffuse.dds" id="2_kpjcp"]
+[ext_resource type="ArrayMesh" uid="uid://dd1g7unthd0bg" path="res://put stuff here bro/Models/rep_blasterrifle.obj" id="3_kne1u"]
+[ext_resource type="Texture2D" uid="uid://b24n37kvfy7lx" path="res://put stuff here bro/Textures/7EFB9702_diffuse.dds" id="4_e80uo"]
+[ext_resource type="Texture2D" uid="uid://bna2l5vsbvbfr" path="res://put stuff here bro/Textures/BF3RETICLE.png" id="5_cxr5p"]
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_kpjcp"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_cxr5p"]
+albedo_texture = ExtResource("2_kpjcp")
+metallic = 0.49
+metallic_specular = 1.0
+metallic_texture = ExtResource("2_kpjcp")
+roughness = 0.0
+subsurf_scatter_enabled = true
+subsurf_scatter_strength = 0.21
+subsurf_scatter_skin_mode = true
+subsurf_scatter_texture = ExtResource("2_kpjcp")
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_xhfnw"]
+size = Vector3(4.553543, 2.5314484, 2.612854)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_tdg3f"]
+albedo_texture = ExtResource("4_e80uo")
+
+[node name="CharacterBody3D" type="CharacterBody3D"]
+
+[node name="CloneTrooper" type="RigidBody3D" parent="."]
+physics_material_override = SubResource("PhysicsMaterial_kpjcp")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="CloneTrooper"]
+transform = Transform3D(99, 0, 0, 0, 99, 0, 0, 0, 99, -0.06413603, -0.635417, -0.28655815)
+mesh = ExtResource("1_kpjcp")
+surface_material_override/0 = SubResource("StandardMaterial3D_cxr5p")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="CloneTrooper"]
+transform = Transform3D(1, 0, 0, 0, 8.297913, 0, 0, 0, 0.9830246, -0.046089172, 9.746843, -0.072906494)
+shape = SubResource("BoxShape3D_xhfnw")
+
+[node name="MeshInstance3D2" type="MeshInstance3D" parent="CloneTrooper"]
+transform = Transform3D(1.0494697, 0, 0.0013468788, -0.000110909255, 0.9983976, 0.04081204, -0.0019567944, -0.056588244, 0.7200551, -2.1793544, 13.706078, 2.315383)
+mesh = ExtResource("3_kne1u")
+surface_material_override/0 = SubResource("StandardMaterial3D_tdg3f")
+
+[node name="campivot" type="Node3D" parent="CloneTrooper"]
+
+[node name="Camera3D" type="Camera3D" parent="CloneTrooper/campivot"]
+transform = Transform3D(-0.99993724, 0, 0.011204874, 0, 1, 0, -0.011204874, 0, -0.99993724, -5.7093945, 16.22336, -9.088942)
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+
+[node name="Bf3reticle" type="Sprite2D" parent="."]
+position = Vector2(948.00006, 466)
+scale = Vector2(0.2, 0.2)
+texture = ExtResource("5_cxr5p")

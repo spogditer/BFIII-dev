@@ -1,0 +1,21 @@
+[gd_scene load_steps=5 format=3 uid="uid://dkj4wyr0rbop2"]
+
+[ext_resource type="ArrayMesh" uid="uid://dd1g7unthd0bg" path="res://put stuff here bro/Models/rep_blasterrifle.obj" id="1_dqijl"]
+[ext_resource type="Texture2D" uid="uid://b24n37kvfy7lx" path="res://put stuff here bro/Textures/7EFB9702_diffuse.dds" id="2_etmpk"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_dqijl"]
+albedo_texture = ExtResource("2_etmpk")
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_etmpk"]
+size = Vector3(0.59680176, 1, 5.008362)
+
+[node name="Node3D" type="Node3D"]
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="."]
+mesh = ExtResource("1_dqijl")
+skeleton = NodePath("")
+surface_material_override/0 = SubResource("StandardMaterial3D_dqijl")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.40863037, 0.9151497, 2.4148865)
+shape = SubResource("BoxShape3D_etmpk")

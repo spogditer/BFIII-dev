@@ -1,0 +1,144 @@
+[gd_scene load_steps=10 format=3 uid="uid://bkjc55r07mpw3"]
+
+[ext_resource type="ArrayMesh" uid="uid://dgyfvighp2fm5" path="res://put stuff here bro/Models/venatorbrief.obj" id="1_bajiw"]
+[ext_resource type="ArrayMesh" uid="uid://c40yg8xja3hpe" path="res://put stuff here bro/Models/rep_clonetrooper.obj" id="2_f0j1r"]
+[ext_resource type="AudioStream" uid="uid://bqqtjx2ducaya" path="res://put stuff here bro/Audio/Star Wars Episode IV _A New Hope__ Main Theme.mp3" id="3_f0j1r"]
+[ext_resource type="ArrayMesh" uid="uid://bx128iltiu00e" path="res://put stuff here bro/Models/Untitled.obj" id="4_qqwyt"]
+[ext_resource type="ArrayMesh" uid="uid://c4ban5bj1pkfq" path="res://put stuff here bro/Models/venator.obj" id="5_iv0vr"]
+
+[sub_resource type="Animation" id="Animation_f0j1r"]
+resource_name = "title_camera_movement"
+length = 5.0
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 1, 5),
+"transitions": PackedFloat32Array(1, 1, 1),
+"update": 0,
+"values": [Vector3(0.63724595, 0.40009332, -0.24919745), Vector3(0.63724595, 0.40009332, -0.4018839), Vector3(0.8158301, 0.094598845, -1.138749)]
+}
+tracks/1/type = "value"
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/path = NodePath(".:rotation")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/keys = {
+"times": PackedFloat32Array(1, 5),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Vector3(0.1294792, -3.0717795, -0.004903954), Vector3(-0.09925883, 2.6526716, -0.009773137)]
+}
+
+[sub_resource type="Animation" id="Animation_qqwyt"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector3(0.8158301, 0.094598845, -1.138749)]
+}
+tracks/1/type = "value"
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/path = NodePath(".:rotation")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector3(0.1294792, -3.0717795, -0.004903954)]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_iv0vr"]
+_data = {
+&"RESET": SubResource("Animation_qqwyt"),
+&"title_camera_movement": SubResource("Animation_f0j1r")
+}
+
+[sub_resource type="Theme" id="Theme_f0j1r"]
+
+[node name="Node3D" type="Node3D"]
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="."]
+mesh = ExtResource("1_bajiw")
+
+[node name="MeshInstance3D2" type="MeshInstance3D" parent="."]
+transform = Transform3D(-0.97088814, 0, 0.23953328, 0, 1, 0, -0.23953328, 0, -0.97088814, 0.6189231, -0.05863688, -0.6336326)
+mesh = ExtResource("2_f0j1r")
+
+[node name="Camera3D" type="Camera3D" parent="."]
+transform = Transform3D(-0.99750787, -0.013898676, -0.06917256, -0.004862885, 0.9916174, -0.12911771, 0.070387274, -0.12845956, -0.98921376, 0.8158301, 0.094598845, -1.138749)
+fov = 56.540585
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="Camera3D"]
+deterministic = true
+libraries = {
+&"": SubResource("AnimationLibrary_iv0vr")
+}
+
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, -0.047821205, 0.99885595, 0, -0.99885595, -0.047821205, 0.6016971, 0.59762084, -0.84200406)
+light_energy = 5.226
+sky_mode = 1
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("3_f0j1r")
+autoplay = true
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+
+[node name="Control" type="Control" parent="CanvasLayer"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme = SubResource("Theme_f0j1r")
+
+[node name="MarginContainer" type="MarginContainer" parent="CanvasLayer/Control"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/margin_left = 524
+theme_override_constants/margin_top = 348
+theme_override_constants/margin_right = 501
+theme_override_constants/margin_bottom = 31
+
+[node name="VBoxContainer" type="VBoxContainer" parent="CanvasLayer/Control/MarginContainer"]
+layout_mode = 2
+
+[node name="Button" type="Button" parent="CanvasLayer/Control/MarginContainer/VBoxContainer"]
+layout_mode = 2
+text = "Cato Neimoidia"
+
+[node name="Button2" type="Button" parent="CanvasLayer/Control/MarginContainer/VBoxContainer"]
+layout_mode = 2
+text = "Coruscant"
+
+[node name="Button3" type="Button" parent="CanvasLayer/Control/MarginContainer/VBoxContainer"]
+layout_mode = 2
+text = "Exit to windows"
+
+[node name="MeshInstance3D3" type="MeshInstance3D" parent="."]
+transform = Transform3D(0.08796971, 0, 0, 0, 0.08796971, 0, 0, 0, 0.08796971, -1.689946, 0.80324984, 10.838482)
+mesh = ExtResource("4_qqwyt")
+
+[node name="MeshInstance3D4" type="MeshInstance3D" parent="."]
+transform = Transform3D(0.019965323, 0, 0, 0, 0.019965323, 0, 0, 0, 0.019965323, 1.4823425, 0.5932673, 2.6994667)
+mesh = ExtResource("5_iv0vr")

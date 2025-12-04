@@ -1,0 +1,314 @@
+# Blender 5.0.0 MTL File: 'None'
+# www.blender.org
+
+newmtl Mat.002
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Mat.003
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Mat.004
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Mat_0BB3F602_307D6B06_56D66E0A
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/0BB3F602_diffuse.dds
+map_d C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/0BB3F602_diffuse.dds
+map_Bump -bm 1.000000 C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/307D6B06_normal.dds
+
+newmtl Mat_0BB3F602_307D6B06_56D66E0A.001
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/0BB3F602_diffuse.dds
+map_d C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/0BB3F602_diffuse.dds
+map_Bump -bm 1.000000 C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/307D6B06_normal.dds
+
+newmtl Mat_0BB3F602_307D6B06_56D66E0A.002
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/0BB3F602_diffuse.dds
+map_d C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/0BB3F602_diffuse.dds
+map_Bump -bm 1.000000 C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/307D6B06_normal.dds
+
+newmtl Mat_0C267482_4E71D886_0C39990A
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/0C267482_diffuse.dds
+map_d C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/0C267482_diffuse.dds
+map_Bump -bm 1.000000 C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/4E71D886_normal.dds
+
+newmtl Mat_0C267482_4E71D886_0C39990A.001
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/0C267482_diffuse.dds
+map_d C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/0C267482_diffuse.dds
+map_Bump -bm 1.000000 C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/4E71D886_normal.dds
+
+newmtl Mat_0C267482_4E71D886_0C39990A.002
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/0C267482_diffuse.dds
+map_d C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/0C267482_diffuse.dds
+map_Bump -bm 1.000000 C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/4E71D886_normal.dds
+
+newmtl Mat_0D999482_3E42838A
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/0D999482_diffuse.dds
+map_d C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/0D999482_diffuse.dds
+
+newmtl Mat_1712F182.013
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/1712F182_diffuse.dds
+map_d C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/1712F182_diffuse.dds
+
+newmtl Mat_1712F182.014
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/1712F182_diffuse.dds
+map_d C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/1712F182_diffuse.dds
+
+newmtl Mat_1712F182.015
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/1712F182_diffuse.dds
+map_d C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/1712F182_diffuse.dds
+
+newmtl Mat_1F43DF02_02BAFD06_1FEFAD8A
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/1F43DF02_diffuse.dds
+map_d C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/1F43DF02_diffuse.dds
+map_Bump -bm 1.000000 C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/02BAFD06_normal.dds
+
+newmtl Mat_1F43DF02_02BAFD06_1FEFAD8A.001
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/1F43DF02_diffuse.dds
+map_d C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/1F43DF02_diffuse.dds
+map_Bump -bm 1.000000 C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/02BAFD06_normal.dds
+
+newmtl Mat_1F43DF02_02BAFD06_1FEFAD8A.002
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/1F43DF02_diffuse.dds
+map_d C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/1F43DF02_diffuse.dds
+map_Bump -bm 1.000000 C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/02BAFD06_normal.dds
+
+newmtl Mat_2AD45102_795F9986_6761108A
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/2AD45102_diffuse.dds
+map_d C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/2AD45102_diffuse.dds
+map_Bump -bm 1.000000 C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/795F9986_normal.dds
+
+newmtl Mat_2AD45102_795F9986_6761108A.001
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/2AD45102_diffuse.dds
+map_d C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/2AD45102_diffuse.dds
+map_Bump -bm 1.000000 C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/795F9986_normal.dds
+
+newmtl Mat_2AD45102_795F9986_6761108A.002
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/2AD45102_diffuse.dds
+map_d C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/2AD45102_diffuse.dds
+map_Bump -bm 1.000000 C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/795F9986_normal.dds
+
+newmtl Mat_377BCC82_5AC28A06_3B69778A
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/377BCC82_diffuse.dds
+map_d C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/377BCC82_diffuse.dds
+map_Bump -bm 1.000000 C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/5AC28A06_normal.dds
+
+newmtl Mat_377BCC82_5AC28A06_3B69778A.001
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/377BCC82_diffuse.dds
+map_d C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/377BCC82_diffuse.dds
+map_Bump -bm 1.000000 C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/5AC28A06_normal.dds
+
+newmtl Mat_377BCC82_5AC28A06_3B69778A.002
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/377BCC82_diffuse.dds
+map_d C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/377BCC82_diffuse.dds
+map_Bump -bm 1.000000 C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/5AC28A06_normal.dds
+
+newmtl Mat_5DD61202_0A8C5306_32E7CB8A
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/5DD61202_diffuse.dds
+map_d C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/5DD61202_diffuse.dds
+map_Bump -bm 1.000000 C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/0A8C5306_normal.dds
+
+newmtl Mat_5DD61202_0A8C5306_32E7CB8A.001
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/5DD61202_diffuse.dds
+map_d C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/5DD61202_diffuse.dds
+map_Bump -bm 1.000000 C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/0A8C5306_normal.dds
+
+newmtl Mat_69D04902_11F0F886_2C365E0A
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/69D04902_diffuse.dds
+map_d C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/69D04902_diffuse.dds
+map_Bump -bm 1.000000 C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/11F0F886_normal.dds
+
+newmtl Mat_69D04902_11F0F886_2C365E0A.001
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/69D04902_diffuse.dds
+map_d C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/69D04902_diffuse.dds
+map_Bump -bm 1.000000 C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/11F0F886_normal.dds
+
+newmtl Mat_7ADBF082_4707B606_3D12A18A
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/7ADBF082_diffuse.dds
+map_d C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/7ADBF082_diffuse.dds
+map_Bump -bm 1.000000 C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/4707B606_normal.dds
+
+newmtl Mat_7ADBF082_4707B606_3D12A18A.001
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/7ADBF082_diffuse.dds
+map_d C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/7ADBF082_diffuse.dds
+map_Bump -bm 1.000000 C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/4707B606_normal.dds
+
+newmtl Mat_7ADBF082_4707B606_3D12A18A.002
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/7ADBF082_diffuse.dds
+map_d C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/7ADBF082_diffuse.dds
+map_Bump -bm 1.000000 C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/capital_ships/rep/rep_cruiser_exterior/4707B606_normal.dds

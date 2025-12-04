@@ -1,0 +1,13 @@
+# Blender 5.0.0 MTL File: 'None'
+# www.blender.org
+
+newmtl Mat_7F40ED02_7CD23E86_0D8F360A
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/characters/soldiers/rep/rep_clonetrooper/rep_clonetrooper/7F40ED02_diffuse.dds
+map_d C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/characters/soldiers/rep/rep_clonetrooper/rep_clonetrooper/7F40ED02_diffuse.dds
+map_Bump -bm 1.000000 C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/characters/soldiers/rep/rep_clonetrooper/rep_clonetrooper/7CD23E86_normal.dds

@@ -1,0 +1,1112 @@
+# Blender 5.0.0 MTL File: 'None'
+# www.blender.org
+
+newmtl Default_Material
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+
+newmtl cato_new_interior_barrier_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/barrier_col.tga
+map_d C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/barrier_col.tga
+
+newmtl cato_new_interior_border_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/border_col.tga
+
+newmtl cato_new_interior_border_col_02SS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/border_col_02.tga
+
+newmtl cato_new_interior_carpet_colSS
+Ns 20.000006
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/carpet_col.tga
+
+newmtl cato_new_interior_carpet_colSS1
+Ns 20.000006
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/carpet_col.tga
+
+newmtl cato_new_interior_catopilaroccSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/catopilarocc.tga
+
+newmtl cato_new_interior_ceilingSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/ceiling.tga
+map_d C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/ceiling.tga
+
+newmtl cato_new_interior_chair_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/chair_col.tga
+
+newmtl cato_new_interior_chair_colSS1
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/chair_col.tga
+
+newmtl cato_new_interior_chandelier_beamSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/chandelier_beam.tga
+
+newmtl cato_new_interior_chandelier_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/chandelier_col.tga
+map_d C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/chandelier_col.tga
+
+newmtl cato_new_interior_cntrl_rm_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/cntrl_rm_col.tga
+
+newmtl cato_new_interior_cntrl_rm_consoleSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/cntrl_rm_console.tga
+
+newmtl cato_new_interior_cntrl_room_floor2_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/cntrl_room_floor2_col.tga
+
+newmtl cato_new_interior_components_01_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/components_01_col.tga
+
+newmtl cato_new_interior_components_02_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/components_02_col.tga
+
+newmtl cato_new_interior_components_02_colSS1
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/components_02_col.tga
+
+newmtl cato_new_interior_components_03_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/components_03_col.tga
+
+newmtl cato_new_interior_components_04_colSS
+Ns 150.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/components_04_col.tga
+
+newmtl cato_new_interior_components_05_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/components_05_col.tga
+
+newmtl cato_new_interior_control_room_grate_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/control_room_grate_col.tga
+
+newmtl cato_new_interior_crystal_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/crystal_col.tga
+map_d C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/crystal_col.tga
+
+newmtl cato_new_interior_deco_arch_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/deco_arch_col.tga
+map_d C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/deco_arch_col.tga
+
+newmtl cato_new_interior_dome_light_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/dome_light_col.tga
+
+newmtl cato_new_interior_dome_room_ceilingSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/dome_room_ceiling.tga
+
+newmtl cato_new_interior_door_goldSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+
+newmtl cato_new_interior_doors_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/doors_col.tga
+
+newmtl cato_new_interior_ext_bricks_wall_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/ext_bricks_wall_col.tga
+
+newmtl cato_new_interior_ext_bridge_base1_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/ext_bridge_base1_col.tga
+
+newmtl cato_new_interior_ext_marble1_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/ext_marble1_col.tga
+
+newmtl cato_new_interior_ext_metal_gen_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/ext_metal_gen_col.tga
+
+newmtl cato_new_interior_ext_palace1_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/ext_palace1_col.tga
+
+newmtl cato_new_interior_ext_pattern_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/ext_pattern_col.tga
+
+newmtl cato_new_interior_ext_pillars_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/ext_pillars_col.tga
+
+newmtl cato_new_interior_fabricsSS
+Ns 20.000006
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/fabrics.tga
+map_d C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/fabrics.tga
+
+newmtl cato_new_interior_fade_portalsSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/fade_portals.tga
+map_d C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/fade_portals.tga
+
+newmtl cato_new_interior_foyer_ceiling_aoSS
+Ns 20.000006
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/foyer_ceiling_ao.tga
+map_d C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/foyer_ceiling_ao.tga
+
+newmtl cato_new_interior_foyer_wallsSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/foyer_walls.tga
+
+newmtl cato_new_interior_globe_base_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/globe_base_col.tga
+
+newmtl cato_new_interior_globe_sphere_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/globe_sphere_col.tga
+
+newmtl cato_new_interior_godrays_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/godrays_col.tga
+map_d C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/godrays_col.tga
+
+newmtl cato_new_interior_goldSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+
+newmtl cato_new_interior_goldSS1
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+
+newmtl cato_new_interior_gold_columnSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/gold_column.tga
+
+newmtl cato_new_interior_light_dome_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/light_dome_col.tga
+map_d C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/light_dome_col.tga
+
+newmtl cato_new_interior_lightbeamSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/lightbeam.tga
+map_d C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/lightbeam.tga
+
+newmtl cato_new_interior_marble_panelsSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/marble_panels.tga
+
+newmtl cato_new_interior_nem_statue_2_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/nem_statue_2_col.tga
+
+newmtl cato_new_interior_nem_statue_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/nem_statue_col.tga
+
+newmtl cato_new_interior_phong1
+Ns 150.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/ext_metals_col.tga
+map_d C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/ext_metals_col.tga
+
+newmtl cato_new_interior_pillar_amb_occSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/pillar_amb_occ.tga
+map_d C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/pillar_amb_occ.tga
+
+newmtl cato_new_interior_pillars_and_columnsSS
+Ns 24.699991
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/pillars_and_columns.tga
+
+newmtl cato_new_interior_plinth_colSS
+Ns 150.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/plinth_col.tga
+
+newmtl cato_new_interior_red_plasterSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/red_plaster.tga
+
+newmtl cato_new_interior_roof_tilesSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/roof_tiles.tga
+
+newmtl cato_new_interior_screen_animSS
+Ns 320.980011
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd -o 0.3 0 0 C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/screen_anim.tga
+map_d -o 0.3 0 0 C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/screen_anim.tga
+
+newmtl cato_new_interior_screen_animSS1
+Ns 300.000031
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/screen_anim.tga
+map_d C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/screen_anim.tga
+
+newmtl cato_new_interior_sml_wall_panelsSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/sml_wall_panels.tga
+
+newmtl cato_new_interior_test_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/test_col.tga
+
+newmtl cato_new_interior_throne_tile_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/throne_tile_col.tga
+
+newmtl cato_new_interior_wall_panels_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wall_panels_col.tga
+
+newmtl cato_new_interior_white_tilesSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/white_tiles.tga
+
+newmtl cato_new_interior_white_tilesSS1
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/white_tiles.tga
+
+newmtl cato_new_interior_white_tilesSS2
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/white_tiles.tga
+
+newmtl cato_new_interior_windows_colSS
+Ns 1000.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/windows_col.tga
+map_d C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/windows_col.tga
+
+newmtl lambert1
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+
+newmtl wii_base_side_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_base_side_col.tga
+
+newmtl wii_base_top_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_base_top_col.tga
+
+newmtl wii_bits1_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_bits1_col.tga
+
+newmtl wii_border_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_border_col.tga
+
+newmtl wii_cables_colSS
+Ns 350.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_cables_col.tga
+
+newmtl wii_cato_alphashadowsSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd D:/Work/user/work/bf/backgrounds/cato/textures/wii_cato_alphashadows.tga
+map_d D:/Work/user/work/bf/backgrounds/cato/textures/wii_cato_alphashadows.tga
+
+newmtl wii_catopilar_colSS
+Ns 300.000031
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_catopilar_col.tga
+
+newmtl wii_cloud_waterSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_cloud_water.tga
+
+newmtl wii_ext_bricks_wall_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_ext_bricks_wall_col.tga
+
+newmtl wii_ext_bridge_base2_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_ext_bridge_base2_col.tga
+
+newmtl wii_ext_buildings01_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_ext_buildings01_col.tga
+
+newmtl wii_ext_buildings01_colSS1
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_ext_buildings01_col.tga
+
+newmtl wii_ext_buildings02_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_ext_buildings02_col.tga
+
+newmtl wii_ext_buildings03_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_ext_buildings03_col.tga
+
+newmtl wii_ext_buildings04_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_ext_buildings04_col.tga
+
+newmtl wii_ext_decals_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_ext_decals_col.tga
+
+newmtl wii_ext_decals_colSS152
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_ext_decals_col.tga
+map_d C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_ext_decals_col.tga
+
+newmtl wii_ext_decals_colSS153
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_ext_decals_col.tga
+map_d C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_ext_decals_col.tga
+
+newmtl wii_ext_decals_colSS154
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_ext_decals_col.tga
+map_d C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_ext_decals_col.tga
+
+newmtl wii_ext_decals_colSS155
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_ext_decals_col.tga
+map_d C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_ext_decals_col.tga
+
+newmtl wii_ext_floor_borders_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_ext_floor_borders_col.tga
+
+newmtl wii_ext_floor_garden_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_ext_floor_garden_col.tga
+
+newmtl wii_ext_floor_gen_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_ext_floor_gen_col.tga
+
+newmtl wii_ext_floor_main_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_ext_floor_main_col.tga
+
+newmtl wii_ext_floor_marble_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_ext_floor_marble_col.tga
+
+newmtl wii_ext_floor_road_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_ext_floor_road_col.tga
+
+newmtl wii_ext_fountain_top_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_ext_fountain_top_col.tga
+
+newmtl wii_ext_marble1_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_ext_marble1_col.tga
+
+newmtl wii_ext_marble2_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_ext_marble2_col.tga
+
+newmtl wii_ext_metal_gen_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_ext_metal_gen_col.tga
+
+newmtl wii_ext_metal_gen_colSS1
+Ns 150.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_ext_metal_gen_col.tga
+
+newmtl wii_ext_metals_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_ext_metals_col.tga
+
+newmtl wii_ext_palace1_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_ext_palace1_col.tga
+
+newmtl wii_ext_pillars_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_ext_pillars_col.tga
+
+newmtl wii_force_barrier_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_force_barrier_col.tga
+
+newmtl wii_globe_aoSS
+Ns 20.000006
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_globe_ao.tga
+map_d C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_globe_ao.tga
+
+newmtl wii_hammock_cables_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_hammock_cables_col.tga
+
+newmtl wii_hammock_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_hammock_col.tga
+
+newmtl wii_landing_b_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_landing_b_col.tga
+
+newmtl wii_main_landing_base_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_main_landing_base_col.tga
+
+newmtl wii_nem_statue2_colSS
+Ns 900.000061
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_nem_statue2_col.tga
+
+newmtl wii_pillar_amb_occSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_pillar_amb_occ.tga
+map_d C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_pillar_amb_occ.tga
+
+newmtl wii_tunnel_grid_colSS
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_tunnel_grid_col.tga
+map_d C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_tunnel_grid_col.tga
+
+newmtl wii_tunnel_grid_colSS1
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_tunnel_grid_col.tga
+map_d C:/Users/Asus/Downloads/Groinkick SWBF3 Archive-20251130T062406Z-1-001/Groinkick SWBF3 Archive/Maps/Cato Nemoidia/textures/wii_tunnel_grid_col.tga

@@ -1,0 +1,27 @@
+[gd_scene load_steps=6 format=3 uid="uid://b015mxq8egjm1"]
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_02x7g"]
+
+[sub_resource type="BoxMesh" id="BoxMesh_02x7g"]
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_hjr2n"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_oj8i4"]
+next_pass = SubResource("ShaderMaterial_hjr2n")
+albedo_color = Color(0.05882353, 0.05882353, 1, 1)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_02x7g"]
+
+[node name="floor1ithinktile" type="RigidBody3D"]
+physics_material_override = SubResource("PhysicsMaterial_02x7g")
+lock_rotation = true
+freeze = true
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="."]
+transform = Transform3D(176.90399, 0, 0, 0, 1, 0, 0, 0, 322.19803, 0, 0, 0)
+mesh = SubResource("BoxMesh_02x7g")
+surface_material_override/0 = SubResource("StandardMaterial3D_oj8i4")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+transform = Transform3D(178.903, 0, 0, 0, 2.4832342, 0, 0, 0, 325.2051, 0, 0, 0)
+shape = SubResource("BoxShape3D_02x7g")

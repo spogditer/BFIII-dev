@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://dgsd3yw71hqv1"]
+
+[ext_resource type="ArrayMesh" uid="uid://da3pwc860f0ie" path="res://put stuff here bro/Models/rep_shotgun.obj" id="1_xcxsp"]
+
+[node name="Node3D" type="Node3D"]
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="."]
+transform = Transform3D(90, 0, 0, 0, 90, 0, 0, 0, 90, 0, 1.3931732, 0)
+mesh = ExtResource("1_xcxsp")

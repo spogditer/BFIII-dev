@@ -1,0 +1,23 @@
+# Blender 5.0.0 MTL File: 'None'
+# www.blender.org
+
+newmtl Mat_39BBCC82_711AF806_75E0368A
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/weapon/rep/rep_shotgun_firstperson/39BBCC82_diffuse.dds
+map_d C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/weapon/rep/rep_shotgun_firstperson/39BBCC82_diffuse.dds
+map_Bump -bm 1.000000 C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/weapon/rep/rep_shotgun_firstperson/711AF806_normal.dds
+
+newmtl Mat_619F5202_0720658A
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/weapon/rep/rep_shotgun_firstperson/619F5202_diffuse.dds
+map_d C:/Users/Asus/Downloads/MODELS-20251127T041959Z-1-001/MODELS/weapon/rep/rep_shotgun_firstperson/619F5202_diffuse.dds
